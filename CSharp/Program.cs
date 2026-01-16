@@ -2,6 +2,7 @@
 using CSharp.BasicQuestions;
 using CSharp.ParameterizedAndFunctional;
 using CSharp.MultipleRecursion;
+using CSharp.Subsequences;
 
 namespace CSharp
 {
@@ -21,7 +22,9 @@ namespace CSharp
             // FactorialOfN.runUsingParameterized();
             // FactorialOfN.runUsingFunctional();
 
-            FibonacciNumber.run();
+            // FibonacciNumber.run();
+
+            PrintAllPossibleSubsequences.run();
         }
     } 
 }
