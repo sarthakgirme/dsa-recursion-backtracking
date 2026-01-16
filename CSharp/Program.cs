@@ -1,6 +1,7 @@
 ﻿using System;
 using CSharp.BasicQuestions;
 using CSharp.ParameterizedAndFunctional;
+using CSharp.MultipleRecursion;
 
 namespace CSharp
 {
@@ -16,6 +17,11 @@ namespace CSharp
 
             // SumOfFirstNNumbers.runUsingParameterized();
             // SumOfFirstNNumbers.runUsingFunctional();
+
+            // FactorialOfN.runUsingParameterized();
+            // FactorialOfN.runUsingFunctional();
+
+            FibonacciNumber.run();
         }
     } 
 }
